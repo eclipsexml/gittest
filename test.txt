@@ -1,3 +1,4 @@
 this is my first  time to use Notepad++
 f1
 f2
+f3
